@@ -1,0 +1,10 @@
+F:\Facultate\C#\IncercareProiect3\Interface\bin\Debug\Interface.exe.config
+F:\Facultate\C#\IncercareProiect3\Interface\bin\Debug\Interface.exe
+F:\Facultate\C#\IncercareProiect3\Interface\bin\Debug\Interface.pdb
+F:\Facultate\C#\IncercareProiect3\Interface\obj\Debug\Interface.GUI.resources
+F:\Facultate\C#\IncercareProiect3\Interface\obj\Debug\Interface.Properties.Resources.resources
+F:\Facultate\C#\IncercareProiect3\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+F:\Facultate\C#\IncercareProiect3\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+F:\Facultate\C#\IncercareProiect3\Interface\obj\Debug\Interface.exe
+F:\Facultate\C#\IncercareProiect3\Interface\obj\Debug\Interface.pdb
+F:\Facultate\C#\IncercareProiect3\Interface\obj\Debug\Interface.csprojAssemblyReference.cache

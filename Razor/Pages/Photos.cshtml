@@ -1,0 +1,25 @@
+﻿@page "/Photo"
+@model Razor.Pages.PhotosModel
+@{
+    ViewData["Title"] = "Photos";
+    PhotosModel photosModel = new PhotosModel();
+    string[][] v = new string[4][];
+    int aux = 0;
+    string[] info = new string[v.Length];
+    v = photosModel.GetInfo();
+    for (int i = 0; i < v.Length;i++)
+    {
+        info[i] = v[0][i] + " " + v[1][i] + " " + v[2][i] + " " + v[3][i];
+    }
+}
+
+<h1>Photos</h1>
+
+<table>
+    <tr>
+        @for (int j = 0; j < info.Length; j++)
+        {
+            <td>@info[j]</td>
+        }
+    </tr>
+    </table>

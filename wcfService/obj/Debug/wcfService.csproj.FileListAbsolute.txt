@@ -1,0 +1,7 @@
+F:\Facultate\C#\IncercareProiect3\wcfService\bin\Debug\wcfService.dll.config
+F:\Facultate\C#\IncercareProiect3\wcfService\bin\Debug\wcfService.dll
+F:\Facultate\C#\IncercareProiect3\wcfService\bin\Debug\wcfService.pdb
+F:\Facultate\C#\IncercareProiect3\wcfService\obj\Debug\wcfService.csprojAssemblyReference.cache
+F:\Facultate\C#\IncercareProiect3\wcfService\obj\Debug\wcfService.csproj.CoreCompileInputs.cache
+F:\Facultate\C#\IncercareProiect3\wcfService\obj\Debug\wcfService.dll
+F:\Facultate\C#\IncercareProiect3\wcfService\obj\Debug\wcfService.pdb
